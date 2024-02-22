@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Course Management
+
+Course Management system facilitates CRUD operations seamlessly, utilizing Prisma as the ORM for migrations and querying. Additionally, it leverages the SheetJS library to extract valuable insights from spreadsheets.
+
+## Key Features:
+
+Facilitates CRUD operations seamlessly
+Utilizes Prisma for ORM and migrations
+Leverages SheetJS for extracting insights from spreadsheets
+
+## Technologies:
+Built with Next.js, React, TailwindCSS, Prisma, PostgreSQL, and SheetJS.
+
+## Usage:
+To use Course Management, clone the repository and follow the installation instructions provided in the README.md file.
+
 
 ## Getting Started
 
